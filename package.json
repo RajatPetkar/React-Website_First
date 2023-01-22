@@ -1,5 +1,6 @@
 {
   "name": "final_project",
+  "homepage" : "https://rajatpetkar.github.io/reactwebsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
