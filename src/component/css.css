@@ -1,0 +1,40 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    height: 100vh;
+}
+.menu_active{
+    font-weight: bold;
+    border-bottom: 1px solid #565387;
+}
+strong{
+    color: blueviolet;
+}
+h4{
+    font-family:'Times New Roman', Times, serif;
+}
+img{
+    width: 60%;
+    margin-top: 3rem;
+}
+.card{
+    width: 35vw;
+    height: 35%;
+    padding: 1rem;
+    margin: 1rem;
+    align-self: center;
+    width: 25vw;
+}
+.containe{
+    margin-top: 3rem;
+    display: grid;
+    gap: 4rem;
+    display: inline-block;
+    width: 25%;
+    align-self: center;
+    margin-left: 5rem;
+}
+.cards{
+    width: 100%;
+}
